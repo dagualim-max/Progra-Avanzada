@@ -1,0 +1,112 @@
+﻿  Gimnasio.cpp
+C:\Users\dagua\source\repos\Lab9_DIego_Gualim_1250025\Gimnasio.cpp(3,22): error C2146: error de sintaxis: falta ')' delante del identificador '_nombre'
+C:\Users\dagua\source\repos\Lab9_DIego_Gualim_1250025\Gimnasio.cpp(3,15): error C2226: error de sintaxis: tipo 'std::string' inesperado
+C:\Users\dagua\source\repos\Lab9_DIego_Gualim_1250025\Gimnasio.cpp(3,22): error C2146: error de sintaxis: falta ';' delante del identificador '_nombre'
+C:\Users\dagua\source\repos\Lab9_DIego_Gualim_1250025\Gimnasio.cpp(3,29): error C2059: error de sintaxis: ','
+C:\Users\dagua\source\repos\Lab9_DIego_Gualim_1250025\Gimnasio.cpp(3,80): error C2059: error de sintaxis: ')'
+C:\Users\dagua\source\repos\Lab9_DIego_Gualim_1250025\Gimnasio.cpp(4,1): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\dagua\source\repos\Lab9_DIego_Gualim_1250025\Gimnasio.cpp(4,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+  Lab9_DIego_Gualim_1250025.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(454,19): error C2338: static_assert failed: 'The C++ Standard forbids containers of non-object types because of [container.requirements].'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(454,19):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          C:\Users\dagua\source\repos\Lab9_DIego_Gualim_1250025\Lab9_DIego_Gualim_1250025.cpp(6,15):
+          Vea la referencia a la creación de una instancia de clase plantilla "std::vector<void,std::allocator<void>>" que se está compilando
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(461,32): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(462,38): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(686,79): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(839,23): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(852,23): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(932,44): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(936,39): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1059,68): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1063,63): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1067,111): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1335,86): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1633,86): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1927,34): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1937,40): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1947,34): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1956,40): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1965,34): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1974,40): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1983,34): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1992,40): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(397,39): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(397,39):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(2244,41):
+          Vea la referencia a la creación de una instancia de clase plantilla "std::_Compressed_pair<std::allocator<void>,std::_Vector_val<std::_Simple_types<_Ty>>,true>" que se está compilando
+          with
+          [
+              _Ty=void
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(1524,10):
+          Vea la referencia a la creación de una instancia de clase plantilla "std::_Vector_val<std::_Simple_types<_Ty>>" que se está compilando
+          with
+          [
+              _Ty=void
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(398,45): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+C:\Users\dagua\source\repos\Lab9_DIego_Gualim_1250025\Lab9_DIego_Gualim_1250025.cpp(6,26): error C3861: 'crearClase': no se encontró el identificador
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\initializer_list(24,40): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\initializer_list(24,40):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          C:\Users\dagua\source\repos\Lab9_DIego_Gualim_1250025\Lab9_DIego_Gualim_1250025.cpp(6,24):
+          Vea la referencia a la creación de una instancia de clase plantilla "std::initializer_list<_Ty>" que se está compilando
+          with
+          [
+              _Ty=void
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\initializer_list(25,40): error C7683: no se puede crear una referencia a 'void'
+  (compilando archivo de origen "Lab9_DIego_Gualim_1250025.cpp")
+  
+  Generando código...
