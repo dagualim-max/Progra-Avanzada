@@ -1,0 +1,138 @@
+﻿  Cola.cpp
+  Enemigo.cpp
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(36,26): warning C4566: el carácter representado por el nombre de carácter universal '\u26A0' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Enemigo.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(36,26): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Enemigo.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(43,26): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F501' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Enemigo.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(47,22): warning C4566: el carácter representado por el nombre de carácter universal '\u26A0' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Enemigo.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(47,22): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Enemigo.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(54,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F392' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Enemigo.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(58,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F4E6' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Enemigo.cpp")
+  
+  Entidad.cpp
+  Juego.cpp
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(36,26): warning C4566: el carácter representado por el nombre de carácter universal '\u26A0' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(36,26): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(43,26): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F501' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(47,22): warning C4566: el carácter representado por el nombre de carácter universal '\u26A0' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(47,22): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(54,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F392' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(58,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F4E6' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Juego.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(35,26): warning C4566: el carácter representado por el nombre de carácter universal '\u23F3' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(65,26): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F3C1' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(69,26): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F480' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(94,26): warning C4566: el carácter representado por el nombre de carácter universal '\u2705' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(96,26): warning C4566: el carácter representado por el nombre de carácter universal '\u274C' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(102,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F44B' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(105,22): warning C4566: el carácter representado por el nombre de carácter universal '\u274C' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(111,22): warning C4566: el carácter representado por el nombre de carácter universal '\u27A1' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(111,22): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(117,22): warning C4566: el carácter representado por el nombre de carácter universal '\u274C' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(128,21): warning C4566: el carácter representado por el nombre de carácter universal '\u2694' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(128,21): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Juego.cpp(138,26): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F4DC' no se puede representar en la página de códigos actual (1252)
+  Jugador.cpp
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(36,26): warning C4566: el carácter representado por el nombre de carácter universal '\u26A0' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Jugador.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(36,26): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Jugador.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(43,26): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F501' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Jugador.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(47,22): warning C4566: el carácter representado por el nombre de carácter universal '\u26A0' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Jugador.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(47,22): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Jugador.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(54,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F392' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Jugador.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(58,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F4E6' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Jugador.cpp")
+  
+  Laberinto.cpp
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(36,26): warning C4566: el carácter representado por el nombre de carácter universal '\u26A0' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Laberinto.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(36,26): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Laberinto.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(43,26): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F501' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Laberinto.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(47,22): warning C4566: el carácter representado por el nombre de carácter universal '\u26A0' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Laberinto.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(47,22): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Laberinto.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(54,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F392' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Laberinto.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(58,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F4E6' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Laberinto.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Laberinto.cpp(101,22): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Laberinto.cpp(102,17): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Laberinto.cpp(103,17): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Laberinto.cpp(165,22): warning C4566: el carácter representado por el nombre de carácter universal '\u2694' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Laberinto.cpp(165,22): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Laberinto.cpp(168,26): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F480' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Laberinto.cpp(175,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F480' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Laberinto.cpp(178,21): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F480' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Laberinto.cpp(185,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F9EA' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Laberinto.cpp(194,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F511' no se puede representar en la página de códigos actual (1252)
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Laberinto.cpp(200,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F3C1' no se puede representar en la página de códigos actual (1252)
+  Proyecto2_DiegoGualim_1250025.cpp
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(36,26): warning C4566: el carácter representado por el nombre de carácter universal '\u26A0' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Proyecto2_DiegoGualim_1250025.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(36,26): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Proyecto2_DiegoGualim_1250025.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(43,26): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F501' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Proyecto2_DiegoGualim_1250025.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(47,22): warning C4566: el carácter representado por el nombre de carácter universal '\u26A0' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Proyecto2_DiegoGualim_1250025.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(47,22): warning C4566: el carácter representado por el nombre de carácter universal '\uFE0F' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Proyecto2_DiegoGualim_1250025.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(54,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F392' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Proyecto2_DiegoGualim_1250025.cpp")
+  
+C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\Jugador.h(58,22): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F4E6' no se puede representar en la página de códigos actual (1252)
+  (compilando archivo de origen "Proyecto2_DiegoGualim_1250025.cpp")
+  
+  Generando código...
+  Proyecto2_DiegoGualim_1250025.vcxproj -> C:\Users\dagua\source\repos\Proyecto2_DiegoGualim_1250025\x64\Debug\Proyecto2_DiegoGualim_1250025.exe
